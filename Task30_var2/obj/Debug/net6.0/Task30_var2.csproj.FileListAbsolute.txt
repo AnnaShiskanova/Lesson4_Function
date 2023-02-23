@@ -1,0 +1,15 @@
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\bin\Debug\net6.0\Task30_var2.exe
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\bin\Debug\net6.0\Task30_var2.deps.json
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\bin\Debug\net6.0\Task30_var2.runtimeconfig.json
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\bin\Debug\net6.0\Task30_var2.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\bin\Debug\net6.0\Task30_var2.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\obj\Debug\net6.0\Task30_var2.csproj.AssemblyReference.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\obj\Debug\net6.0\Task30_var2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\obj\Debug\net6.0\Task30_var2.AssemblyInfoInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\obj\Debug\net6.0\Task30_var2.AssemblyInfo.cs
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\obj\Debug\net6.0\Task30_var2.csproj.CoreCompileInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\obj\Debug\net6.0\Task30_var2.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\obj\Debug\net6.0\refint\Task30_var2.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\obj\Debug\net6.0\Task30_var2.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\obj\Debug\net6.0\Task30_var2.genruntimeconfig.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task30_var2\obj\Debug\net6.0\ref\Task30_var2.dll
