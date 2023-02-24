@@ -1,0 +1,15 @@
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\obj\Debug\net6.0\Task25_27_29HomeWork.csproj.AssemblyReference.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\obj\Debug\net6.0\Task25_27_29HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\obj\Debug\net6.0\Task25_27_29HomeWork.AssemblyInfoInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\obj\Debug\net6.0\Task25_27_29HomeWork.AssemblyInfo.cs
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\obj\Debug\net6.0\Task25_27_29HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\bin\Debug\net6.0\Task25_27_29HomeWork.exe
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\bin\Debug\net6.0\Task25_27_29HomeWork.deps.json
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\bin\Debug\net6.0\Task25_27_29HomeWork.runtimeconfig.json
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\bin\Debug\net6.0\Task25_27_29HomeWork.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\bin\Debug\net6.0\Task25_27_29HomeWork.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\obj\Debug\net6.0\Task25_27_29HomeWork.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\obj\Debug\net6.0\refint\Task25_27_29HomeWork.dll
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\obj\Debug\net6.0\Task25_27_29HomeWork.pdb
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\obj\Debug\net6.0\Task25_27_29HomeWork.genruntimeconfig.cache
+C:\Users\shisk\OneDrive\Рабочий стол\Lesson4_Function\Lesson4_Function\Task25_27_29HomeWork\obj\Debug\net6.0\ref\Task25_27_29HomeWork.dll
