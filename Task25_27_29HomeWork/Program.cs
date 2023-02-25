@@ -87,17 +87,25 @@ static void Task27()
 
     int Sum_digits()
     {
-        string y = Convert.ToString(number);
-        int[] arr = new int[y.Length];
-        int Sum = 0;
-        for (int i = 0; i <y.Length; i++)
-        {
+    string y = Convert.ToString(number);
+    int Sum = 0;
+    for (int i = 0; i < y.Length; i++)
+    {
+    Sum += Convert.ToInt32(Convert.ToString(y[i]));
+    }
+    Console.WriteLine($"{Sum}");
+    return Sum;
+    //     string y = Convert.ToString(number);
+    //     int[] arr = new int[y.Length];
+    //     int Sum = 0;
+    //     for (int i = 0; i <y.Length; i++)
+    //     {
                      
-            Sum += y[i];
+    //         Sum += y[i];
            
-        }
-        Console.WriteLine($"{Sum}");
-        return Sum;
+    //     }
+    //     Console.WriteLine($"{Sum}");
+    //     return Sum;
          
     }
    
